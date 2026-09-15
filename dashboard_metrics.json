@@ -1,0 +1,1 @@
+{"total_drives_monitored": 144706, "total_test_failures": 1490, "model_recall": 0.6046979865771812, "model_roc_auc": 0.8082039997045004, "chosen_threshold": 0.45}
