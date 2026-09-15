@@ -7,4 +7,4 @@ xgboost
 lifelines
 streamlit
 plotly
-job lib
+joblib
